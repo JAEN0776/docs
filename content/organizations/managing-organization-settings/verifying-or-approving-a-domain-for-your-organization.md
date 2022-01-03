@@ -70,7 +70,7 @@ To verify a domain, you must have access to modify domain records with your doma
 
 {% data reusables.enterprise-accounts.approved-domains-beta-note %}
 
-{% endif %}
+{% endif %}8
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
